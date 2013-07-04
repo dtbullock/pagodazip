@@ -1,0 +1,7 @@
+web1:
+  name: web1
+  php_version: 5.3.10
+  apache_access_log: true
+  apache_error_log: true
+  php_error_log: true
+  php_fpm_log: true
